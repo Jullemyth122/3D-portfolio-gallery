@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gundam RX 178 MK II
+* source:	https://sketchfab.com/3d-models/gundam-rx-178-mk-ii-8d4bf8343fd346e4a18bde44fb129fd1
+* author:	cosmos28 (https://sketchfab.com/cosmos28)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gundam RX 178 MK II" (https://sketchfab.com/3d-models/gundam-rx-178-mk-ii-8d4bf8343fd346e4a18bde44fb129fd1) by cosmos28 (https://sketchfab.com/cosmos28) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
